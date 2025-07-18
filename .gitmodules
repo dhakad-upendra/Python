@@ -1,0 +1,6 @@
+[submodule "python_projects/TIC-TAC_TOE"]
+	path = python_projects/TIC-TAC_TOE
+	url = https://github.com/dhakad-upendra/Tic-Tac-Toe-game.git
+[submodule "python_projects/mini_projects"]
+	path = python_projects/mini_projects
+	url = https://github.com/dhakad-upendra/mini_projects.git
