@@ -4,3 +4,6 @@
 [submodule "python_projects/mini_projects"]
 	path = python_projects/mini_projects
 	url = https://github.com/dhakad-upendra/mini_projects.git
+[submodule "NLP_learning"]
+	path = NLP_learning
+	url = https://github.com/dhakad-upendra/NLP_learning.git
